@@ -8,4 +8,4 @@ This repository provides supplementary code for the manuscript:
 
 The code and data required to reproduce the main analyses and figures will be uploaded upon acceptance of the manuscript.
 
-Before the full release, inquiries may be directed to the corresponding author (QYT).
+The full version of the data and code is also available at: [https://zenodo.org/records/21247064](https://zenodo.org/records/21247064)
