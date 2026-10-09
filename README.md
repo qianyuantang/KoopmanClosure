@@ -107,7 +107,7 @@ Machine-readable Rössler trajectory used by Supplementary Fig. S2. It contains 
 Human-readable export of the Rössler trajectory and analytical derivatives. The production supplementary analysis reads the NPZ file.
 
 ### `data/C1.0_1.dcd`
-Molecular-dynamics trajectory of adenylate kinase used in Fig. 4 and the AdK supplementary analyses.
+This file contains the molecular dynamics trajectory of adenylate kinase utilized in Fig. 4 and the AdK supplementary analyses. Please note that this uploaded data contains only a 2.5% sample of the complete simulation. The full trajectory and reproducing code can be accessed at Zenodo:
 
 ### `data/closedCA.pdb`
 Closed-state C-alpha reference structure for adenylate kinase. It provides the topology for the DCD trajectory and the structural reference used for alignment and anchor-referenced coordinates.
