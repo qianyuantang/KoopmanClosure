@@ -1,0 +1,2 @@
+system,rank,rank_rule,t_scan_min,t_scan_max,T1,T1_depth,T1_prominence,T1_d_org,T2,T2_depth,T2_prominence,T2_d_org
+synthetic_demo,2,cumulative_singular_values_0.98,100,29999,628,0.19847764075759988,0.21884299776401295,1.3288933245409644,1027,0.013164070277881135,0.13303544369412712,0.7750026245932089

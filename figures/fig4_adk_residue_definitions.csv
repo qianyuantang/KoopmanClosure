@@ -1,0 +1,10 @@
+kind,label,residue_start,residue_end,n_residues,first_atom_index_0based,last_atom_index_0based,first_cartesian_row_0based,row_stop_exclusive
+partial,CORE,1,20,20,0,19,0,60
+partial,NMP,30,49,20,29,48,87,147
+partial,LID,122,141,20,121,140,363,423
+angle,NMP_angle:arm1,115,125,11,114,124,342,375
+angle,NMP_angle:vertex,90,100,11,89,99,267,300
+angle,NMP_angle:arm2,35,55,21,34,54,102,165
+angle,LID_angle:arm1,179,185,7,178,184,534,555
+angle,LID_angle:vertex,115,125,11,114,124,342,375
+angle,LID_angle:arm2,125,153,29,124,152,372,459

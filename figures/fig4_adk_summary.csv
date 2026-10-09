@@ -1,0 +1,2 @@
+system,rank,rank_rule,sigma_sum_rank_diagnostic,t_scan_min,t_scan_max,T1,T1_depth,T1_prominence,T1_d_org,T2,T2_depth,T2_prominence,T2_d_org,T_partial,n_frames,start,end,anchor,selector
+ADK,16,cumulative_squared_singular_values_0.98,517,50,5000,100,0.001216977222881055,0.006245064217824781,0.14007215642274895,501,0.0032133882246440093,0.015171251324756274,0.29278263659970294,100,20000,50000,70000,closedCA.pdb,shared_three_grid_reorganization

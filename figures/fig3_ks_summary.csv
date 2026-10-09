@@ -1,0 +1,2 @@
+system,rank,rank_rule,t_scan_min,t_scan_max,T1,T1_depth,T1_prominence,T1_d_org,T2,T2_depth,T2_prominence,T2_d_org,normal_t0,normal_t1,sticky_t0,sticky_t1
+KS,10,cumulative_singular_values_0.98,50,4750,125,0.05327806245637923,0.05327806245637923,1.1343013197761669,602,0.005174282501572702,0.005354373004762936,0.15492037009330173,38.5,42.0,43.0,49.0
